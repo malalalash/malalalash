@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋 I am Mikołaj</h1>
+<h1 align="center">Hi there 👋 I'm Mikołaj</h1>
 
 <h2>About Me</h2>
-
 <p>I'm a passionate front-end deveoper. I love creating intuitive user interfaces and staying up-to-date with the latest industry trends!</p>
 
 <p><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML" width="50" height="50"/>
