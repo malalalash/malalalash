@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate [front-end deveoper]. I love creating intuitive user interfaces and staying up-to-date with the latest industry trends!
+I'm a passionate front-end deveoper. I love creating intuitive user interfaces and staying up-to-date with the latest industry trends!
 
 ## Skills
 
