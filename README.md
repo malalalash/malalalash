@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Mikołaj</h1>
 
 <h2 align="center">About Me</h2>
-<p align="center">I'm a passionate front-end deveoper. I love creating intuitive user interfaces and staying up-to-date with the latest industry trends!</p>
+<p align="center">I'm a front-end deveoper. I love creating intuitive user interfaces and staying up-to-date with the latest industry trends!</p>
 
 <h3 align="center">Skills</h3>
 <p align="center"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML" width="50" height="50"/>
